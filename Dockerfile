@@ -1,5 +1,4 @@
 FROM ubuntu:14.04
-LABEL maintainer="e-sensing team <esensing-team@dpi.inpe.br>"
 
 VOLUME /data
 VOLUME /var/lib/postgresql/data
